@@ -10,6 +10,7 @@ public class TestGitMainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_test_git_main);
+		String test = "";
 	}
 
 	@Override
