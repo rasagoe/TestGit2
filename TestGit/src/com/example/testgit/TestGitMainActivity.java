@@ -11,6 +11,7 @@ public class TestGitMainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_test_git_main);
 		String sss = "";
+		String ssss = "";
 	}
 
 	@Override
