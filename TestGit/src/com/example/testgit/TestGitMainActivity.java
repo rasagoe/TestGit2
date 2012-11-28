@@ -14,6 +14,7 @@ public class TestGitMainActivity extends Activity {
 		String ssss = "";
 		String sssss = "";
 		String ssssss = "";
+		String sssssss = "";
 	}
 
 	@Override
